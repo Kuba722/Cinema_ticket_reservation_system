@@ -1,4 +1,5 @@
-Project Description\n
+Project Description
+
 This project is a console-based cinema ticket reservation system written in C++.
 It allows users to browse available movies, select seats, and purchase tickets.
 
@@ -9,28 +10,31 @@ Admin – can manage the movie database and system data
 
 Data is stored using files, simulating a simple database.
 
-⚙️ Features
+Features
 User registration and login system
 Role-based access (Admin / Client)
 Movie management (add, delete, display)
 Seat reservation system (2D matrix representation)
 File-based data storage (users, movies, seats)
 Input validation and basic error handling
-🧠 How It Works
-👤 Client
+
+How It Works
+Client
 Registers or logs into the system
 Views available movies
 Selects a movie
 Chooses a seat from the available seating layout
 Confirms ticket reservation
-🛠️ Admin
+
+Admin
 Logs into the system
 Can:
 add new movies
 delete existing movies
 view movie list
 reset seating for a selected movie
-🧱 System Architecture
+
+System Architecture
 
 The project is based on object-oriented programming:
 
