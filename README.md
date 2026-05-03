@@ -42,7 +42,7 @@ User – base class for system users
 Client – handles ticket purchasing and seat selection
 Admin – manages movies and system data
 Movie – stores movie information
-💻 Technologies Used
+Technologies Used
 C++
 Object-Oriented Programming (OOP)
 File I/O (data persistence)
